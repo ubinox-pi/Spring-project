@@ -27,8 +27,6 @@ A clean, intuitive task management application built with **Spring Boot**, **Thy
 |----------------|-----------|
 | ![Add Task](src/main/resources/static/img.png) | ![Task List](src/main/resources/static/img_1.png) |
 
-*(Replace these placeholders with real screenshots from your app!)*
-
 ---
 
 ## ⚙️ Tech Stack
